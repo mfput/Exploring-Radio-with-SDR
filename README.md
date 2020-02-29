@@ -9,3 +9,6 @@ Most of my presentations are on Wireless Security. I hope you enjoy!
 |[GSM Hacking and Cracking](https://github.com/mfput/talks/tree/master/GSM-Hacking-and-Cracking) | [OWASP Inland Empire/DC909](https://www.meetup.com/OWASP-Inland-Empire-Open-Web-Application-Security-Project/events/263001531/) | July 2019 |
 |[GSM Hacking and Cracking](https://github.com/mfput/talks/tree/master/GSM-Hacking-and-Cracking) | [SB WASP](https://www.meetup.com/SouthBayWASP/events/zvltxqyzmbkb/) | September 2019 |
 |[Hacking Cordless Landlines and DECT](https://github.com/mfput/talks/tree/master/Wireless-Phones-and-DECT) | [LETHAL](https://www.meetup.com/LETHAL/events/264652498/) | October 2019 |
+|[GSM Hacking and Cracking](https://github.com/mfput/talks/tree/master/GSM-Hacking-and-Cracking) | [CPP FAST](https://www.cppfast.org/) | February 2020 |
+|[Exploring The Radio Spectrum with an RTL-SDR](https://github.com/mfput/Exploring-Radio-with-SDR/blob/master/Exploring-Radio-with-SDR/readme.md) | [LBCC Cyber Club](https://www.cppfast.org/) | February 2020 |
+
