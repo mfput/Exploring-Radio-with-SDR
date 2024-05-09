@@ -12,4 +12,4 @@ Most of my presentations are on Wireless Security. I hope you enjoy!
 |[GSM Hacking and Cracking](https://github.com/mfput/talks/tree/master/GSM-Hacking-and-Cracking) | [CPP FAST](https://www.cppfast.org/) | February 2020 |
 |[Exploring The Radio Spectrum with an RTL-SDR](https://github.com/mfput/Exploring-Radio-with-SDR/blob/master/Exploring-Radio-with-SDR/readme.md) | [LBCC Cyber Club](https://www.cppfast.org/) | February 2020 |
 
-https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB1482
+Like my work? Donate here: https://buymeacoffee.com/forensicnoobsecurity
